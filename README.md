@@ -108,7 +108,7 @@ Download the dataset and place the three files in `data/raw/`.
 ## Roadmap
 
 - [x] Step 1: Project setup and problem definition
-- [ ] Step 2: Data understanding and EDA
+- [x] Step 2: Data understanding and EDA
 - [ ] Step 3: Data cleaning
 - [ ] Step 4: Normalization and feature extraction
 - [ ] Step 5: Blocking (candidate generation)
